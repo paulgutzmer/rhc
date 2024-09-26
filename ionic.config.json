@@ -1,0 +1,7 @@
+{
+  "name": "rhc-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
